@@ -1,0 +1,27 @@
+{
+  "name": "igt-cli",
+  "version": "1.0.0",
+  "description": "A .gitignore command line tool",
+  "main": "./src/index.js",
+  "bin": {
+    "igt-cli": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/IRONAnthony96/gi",
+  "homepage": "https://github.com/IRONAnthony96/gi#readme",
+  "keywords": [
+    "gitignore",
+    "cli",
+    ".gitignore"
+  ],
+  "author": "Anthony Scott",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "commander": "^12.0.0",
+    "figlet": "^1.7.0"
+  }
+}
