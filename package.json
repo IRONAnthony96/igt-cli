@@ -1,6 +1,6 @@
 {
   "name": "igt-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A .gitignore command line tool",
   "main": "./src/index.js",
   "bin": {
@@ -9,8 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/IRONAnthony96/gi",
-  "homepage": "https://github.com/IRONAnthony96/gi#readme",
+  "repository": "https://github.com/IRONAnthony96/igt-cli",
+  "homepage": "https://github.com/IRONAnthony96/igt-cli",
   "keywords": [
     "gitignore",
     "cli",
