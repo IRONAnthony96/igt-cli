@@ -1,6 +1,6 @@
 {
   "name": "igt-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A .gitignore command line tool",
   "main": "./src/index.js",
   "bin": {
