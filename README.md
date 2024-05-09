@@ -19,3 +19,7 @@ To create Node.js and Java .gitignore file
 ```
 $ igt-cli node java >> .gitignore
 ```
+
+## Thanks
+
+- [gitignore.cli](https://github.com/aswinkarthik/gitignore.cli) - A commandline tool to create gitignore files
